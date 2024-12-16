@@ -1,0 +1,27 @@
+<html>
+<head>
+<style>
+#hoverContent{
+	   cursor:pointer;
+	   width:300px;
+	   }
+</style>
+</head>
+<body>
+<div id="hoverContent" onmouseover="showContent()" onmouseout="hideContent()">
+<h2>Hover Over this text</h2>
+<div id="newContent">
+<img src="nature.jpg" alt="New image" style="width:100%;">
+<p>Tjis is the new content shown on hover!</p>
+</div>
+</div>
+<script>
+function showContent(){
+document.getElementById("newContent").style.display='block';
+}
+function hideContent(){
+document.getElementById("newContent").style.display='none';
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,30 @@
+<html>
+<head>
+<title>TITLE</title>
+</head>
+<body>
+<h3><u>Employee Details</u></h3>
+<table border="1">
+<tr>
+<th>Name</th>
+<th>Age</th>
+<th>Salary</th>
+</tr>
+<tr>
+<td>Anu</td>
+<td>20</td>
+<td>22000</td>
+</tr>
+<tr>
+<td>Nima</td>
+<td>24</td>
+<td>22000</td>
+</tr>
+<tr>
+<td>Bhagya</td>
+<td>22</td>
+<td>22000</td>
+</tr>
+</table>
+</body>
+</html>

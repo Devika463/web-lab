@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>Webpage for coffee shop</title>
+</head>
+<body>
+<h1><b><font color="brown">COFFEE SHOP</font></b></h1>
+<p>A cafe is a small restaurant focusing on caffeinated drinks such as classic drip coffee,cappuccinos,espresso,tea and various types of coffee.</p>
+<img src="coffee.jpg"></img>
+<a href="coffee.html">next</a>
+</body>
+</html>

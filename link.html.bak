@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>TITLE</title>
+</head>
+<body>
+<h1><u>EMPLOYMENT</u></h1>
+<p><h3>Employment definition is termed as a paid mutual work arrangement between a recruiter and an employee.
+ This term applies to an individual who is hired for a salary or compensation to initiate work or tasks for an organization.</h3></p>
+<img src="Employ.jpg"></img><br>
+<a href="image.html">click image<br></a>
+<a href="page.html">back<br></a>
+<a href="table.html">click table<br></a>
+<a href="page.html">back<br></a>
+<a href="link.html">click link<br></a>
+ </body>
+ </html>

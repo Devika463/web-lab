@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>frame</title>
+</head>
+<body>
+<h1>Floating Frame</h1>
+<iframe src="file:///C:/Devika%20HTML/table.html" width="200",height="250",scrolling="yes">
+</iframe>
+</body>
+</html>

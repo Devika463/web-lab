@@ -1,0 +1,59 @@
+<html>
+<head>
+<title>coffee shop</title>
+</head>
+<body>
+<h2><b>Menu Card</b></h2>
+<ol type="a">
+<li>Coffee<li>
+<li>Cappucino<li>
+<li>Tea<li>
+<li>Milk<li>
+<li>Hot chocolate<li>
+</ol>
+<ul type="circle">
+<li>Burger<li>
+<li>Sandwich<li>
+<li>French fries<li>
+</ul>
+<h3>Price details</h3>
+<table border="1">
+<tr>
+<th>Item</th>
+<th>Price</th>
+</tr>
+<tr>
+<td>Coffee</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Cappucino</td>
+<td>50</td>
+</tr>
+<tr>
+<td>Tea</td>
+<td>12</td>
+</tr>
+<tr>
+<td>Milk</td>
+<td>15</td>
+</tr>
+<tr>
+<td>Hot Chocolate</td>
+<td>40</td>
+</tr>
+<tr>
+<td>Burger</td>
+<td>25</td>
+</tr>
+<tr>
+<td>French fries</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Sandwich</td>
+<td>30</td>
+</tr>
+</table>
+</body>
+</html>

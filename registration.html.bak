@@ -1,0 +1,52 @@
+<html>
+<head>
+<style>
+.h1{
+text-align:center;
+font-size:30px;
+}
+</style>
+</head>
+<body>
+<form>
+<center><h1>Student Registeration Form</h1></center>
+<fieldset> 
+<legend>Personal Details</legend>   
+<label>Name</label>   
+<input type="text" name="name"/><br><br>      
+<label>Age</label>
+<input type="number" name="number"/><br><br>  
+<label>Email</label>   
+<input type="text" name="email"/><br><br> 
+<label>Gender</label>   
+<input type="radio" value="Male" name="gender"/> Male   
+<input type="radio" value="Female" name="gender"/> Female   
+<input type="radio" value="Other" name="gender"/> Other <br><br>    
+<label>Phone no:</label>   
+<input type="number" name="number"/><br><br>
+<label>Address</label>   
+<input type="text" name="name"/><br><br> 
+</fieldset>
+</form>
+<form>
+<fieldset>
+<legend>Academic Details</legend>
+<label>Name of College</label>
+<input type="text" name="name"/><br><br> 
+<label>Course</label>
+<select>  
+<option value="Course">Course</option>  
+<option value="BCA">BCA</option>  
+<option value="BBA">BBA</option>  
+<option value="B.Tech">B.Tech</option>  
+<option value="MBA">MBA</option>  
+<option value="MCA">MCA</option>  
+<option value="M.Tech">M.Tech</option> <br><br> 
+</select>  
+<label>Duration</label>   
+<input type="text" name="name"/><br><br>
+</fieldset>
+<input type="button" value="Submit"/>
+</form>
+</body>
+</html>

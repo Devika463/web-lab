@@ -1,0 +1,28 @@
+<html>
+<head>
+<title>TITLE</title>
+</head>
+<body bgcolor="skyblue">
+<h1><font color="violet"><u>HELLO WORLD</u></font></h1>
+<h2><i>Hi Guysss.....</i></h2>
+<p><h3>Welcome to new page.<br><b>This is my new bold text</b> and <i>This is my italic text</i></h3></p>
+<p><i><h3>Iam going to see you a beautiful image of a flower...........</h3></i></p>
+<img src="flower1.jpg"></img>
+<br>
+<h3><u>List of Fruits and Vegetables</u></h3>
+<table border="1">
+<tr>
+<th>Fruits</th>
+<th>Vegetables</th>
+</tr>
+<tr>
+<td>mango</td>
+<td>orange</td>
+</tr>
+<tr>
+<td>tomato</td>
+<td>potato</td>
+</tr>
+</table>
+</body>
+</html>
